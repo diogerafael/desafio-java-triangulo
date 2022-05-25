@@ -7,4 +7,7 @@ public class Triangulo {
         System.out.println("Area do triangulo:"+ this.area);
     }
 
+
+
+
 }
